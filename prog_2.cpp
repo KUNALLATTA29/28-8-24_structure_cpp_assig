@@ -6,7 +6,6 @@ struct Product {
     string name;
     int price;
     int quantity;
-    
 };
 
 
